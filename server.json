@@ -23,6 +23,21 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "11111111111111111111111",
+      "name": "1111111111111111111111111",
+      "price": "11111111111111111111111",
+      "description": "111111111111111111111",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "Prato 01",
+      "name": "Prato criado 01",
+      "price": "12.33",
+      "description": "asdadadad",
+      "id": 5
     }
   ]
 }
